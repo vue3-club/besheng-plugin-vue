@@ -2,10 +2,10 @@
   "_args": [
     [
       {
-        "raw": "bisheng-plugin-antd@^0.15.0",
+        "raw": "bisheng-plugin-vue@^0.15.0",
         "scope": null,
-        "escapedName": "bisheng-plugin-antd",
-        "name": "bisheng-plugin-antd",
+        "escapedName": "bisheng-plugin-vue",
+        "name": "bisheng-plugin-vue",
         "rawSpec": "^0.15.0",
         "spec": ">=0.15.0 <0.16.0",
         "type": "range"
@@ -14,15 +14,15 @@
     ]
   ],
   "_cnpm_publish_time": 1491458787883,
-  "_from": "bisheng-plugin-antd@>=0.15.0 <0.16.0",
+  "_from": "bisheng-plugin-vue@>=0.15.0 <0.16.0",
   "_hasShrinkwrap": false,
-  "_id": "bisheng-plugin-antd@0.15.0",
+  "_id": "bisheng-plugin-vue@0.15.0",
   "_inCache": true,
-  "_location": "/bisheng-plugin-antd",
+  "_location": "/bisheng-plugin-vue",
   "_nodeVersion": "7.6.0",
   "_npmOperationalInternal": {
     "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/bisheng-plugin-antd-0.15.0.tgz_1491458787606_0.5962402648292482"
+    "tmp": "tmp/bisheng-plugin-vue-0.15.0.tgz_1491458787606_0.5962402648292482"
   },
   "_npmUser": {
     "name": "benjycui",
@@ -31,10 +31,10 @@
   "_npmVersion": "4.1.2",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "bisheng-plugin-antd@^0.15.0",
+    "raw": "bisheng-plugin-vue@^0.15.0",
     "scope": null,
-    "escapedName": "bisheng-plugin-antd",
-    "name": "bisheng-plugin-antd",
+    "escapedName": "bisheng-plugin-vue",
+    "name": "bisheng-plugin-vue",
     "rawSpec": "^0.15.0",
     "spec": ">=0.15.0 <0.16.0",
     "type": "range"
@@ -43,10 +43,10 @@
     "#DEV:/",
     "#USER"
   ],
-  "_resolved": "https://registry.npm.taobao.org/bisheng-plugin-antd/download/bisheng-plugin-antd-0.15.0.tgz",
+  "_resolved": "https://registry.npm.taobao.org/bisheng-plugin-vue/download/bisheng-plugin-vue-0.15.0.tgz",
   "_shasum": "03800848b881c2c7ada2e333969157e68629128c",
   "_shrinkwrap": null,
-  "_spec": "bisheng-plugin-antd@^0.15.0",
+  "_spec": "bisheng-plugin-vue@^0.15.0",
   "_where": "/Users/febobo/Documents/web/levp/vum",
   "author": {
     "name": "Benjy Cui"
@@ -59,7 +59,7 @@
     ]
   },
   "bugs": {
-    "url": "https://github.com/ant-design/bisheng-plugin-antd/issues"
+    "url": "https://github.com/ant-design/bisheng-plugin-vue/issues"
   },
   "dependencies": {
     "antd": "latest",
@@ -87,13 +87,13 @@
     "shasum": "03800848b881c2c7ada2e333969157e68629128c",
     "size": 6928,
     "noattachment": false,
-    "tarball": "http://registry.npm.taobao.org/bisheng-plugin-antd/download/bisheng-plugin-antd-0.15.0.tgz"
+    "tarball": "http://registry.npm.taobao.org/bisheng-plugin-vue/download/bisheng-plugin-vue-0.15.0.tgz"
   },
   "files": [
     "lib"
   ],
   "gitHead": "3649f2034027ab2a7539bbef86b3c419fb36dce1",
-  "homepage": "https://github.com/ant-design/bisheng-plugin-antd#readme",
+  "homepage": "https://github.com/ant-design/bisheng-plugin-vue#readme",
   "keywords": [
     "bisheng",
     "plugin",
@@ -112,7 +112,7 @@
       "email": "benjytrys@gmail.com"
     }
   ],
-  "name": "bisheng-plugin-antd",
+  "name": "bisheng-plugin-vue",
   "optionalDependencies": {},
   "peerDependencies": {
     "bisheng": "^0.22.0",
@@ -125,7 +125,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ant-design/bisheng-plugin-antd.git"
+    "url": "git+https://github.com/ant-design/bisheng-plugin-vue.git"
   },
   "scripts": {
     "babel": "babel ./src --out-dir ./lib",
